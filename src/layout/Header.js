@@ -13,7 +13,7 @@ function Header() {
                         <div className="col-sm-4 col-md-4 col-lg-4">
                             <div className='logo'>
                                 {/* <img src={logo} /> */}
-                                <a href="#">Dirt2Clean</a>
+                                <a href="#">Logo</a>
                             </div>
                         </div>
 
