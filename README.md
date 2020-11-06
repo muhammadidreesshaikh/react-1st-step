@@ -20,7 +20,7 @@ npm install --save bootstrap@latest
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 
 # fontawsome
-https://fontawesome.com/how-to-use/on-the-web/using-with/react
+<script src="https://kit.fontawesome.com/5e80442309.js" crossorigin="anonymous"></script>
 
 # app structure
 src /assets /css /img /components Planets Spaceships Vehicles People Films Species /layouts Header Footer Sidebar
@@ -31,3 +31,7 @@ https://www.geeksforgeeks.org/reactjs-router/
 
 # npm axios
 https://alligator.io/react/axios-react/
+
+# global config
+git config --global user.name "John Doe"
+git config --global user.email johndoe@example.com
